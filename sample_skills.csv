@@ -1,0 +1,13 @@
+role,skills,description,learning_path
+Cloud Engineer,python|cloud|aws|linux|networking|automation|terraform|docker,Build and maintain cloud infrastructure,Learn AWS networking and infrastructure as code
+DevOps Engineer,python|cloud|automation|linux|docker|kubernetes|cicd|git|aws,Automate application deployment and operations,Practice Docker CI/CD and Kubernetes
+Backend Developer,python|java|sql|api|django|git|algorithms|postgresql,Build server-side services and databases,Learn REST APIs SQL and testing
+Data Scientist,python|sql|machine learning|statistics|pandas|data visualization|artificial intelligence,Analyze data and develop predictive models,Learn statistics pandas and scikit-learn
+Machine Learning Engineer,python|machine learning|artificial intelligence|tensorflow|pytorch|docker|api|statistics,Deploy and maintain machine learning systems,Practice model evaluation and deployment
+Frontend Developer,html|css|javascript|react|typescript|git|ui design,Build interactive web interfaces,Study React accessibility and responsive design
+Full Stack Developer,javascript|react|nodejs|sql|html|css|api|git,Build frontend and backend web features,Practice APIs and database-backed applications
+Cybersecurity Analyst,networking|linux|security|python|incident response|siem|cloud,Monitor and investigate security threats,Learn network fundamentals and security monitoring
+Data Analyst,sql|excel|python|pandas|powerbi|statistics|data visualization,Turn data into dashboards and insights,Practice SQL dashboards and reporting
+Mobile App Developer,kotlin|java|android|flutter|dart|git|api,Build mobile applications,Practice app architecture and device testing
+QA Automation Engineer,python|javascript|automation|selenium|testing|git|cicd|api,Automate functional and integration tests,Learn pytest browser automation and CI
+Database Administrator,sql|postgresql|mysql|linux|backup|security|performance tuning,Manage and optimize database systems,Practice indexing recovery and access control

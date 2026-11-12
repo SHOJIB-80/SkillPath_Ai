@@ -1,0 +1,19 @@
+{
+  "source_release": "O*NET 31.0",
+  "source_url": "https://www.onetcenter.org/dictionary/31.0/csv/software_skills.html",
+  "source_file": "software_skills.csv",
+  "source_sha256": "6aabb96b464288db849580e6510530efff3f80e25dde2bb23f1fc36bb526b016",
+  "records_read": 31821,
+  "usable_records": 31821,
+  "unique_complete_records_used": 31821,
+  "duplicate_records_skipped": 0,
+  "incomplete_records_skipped": 0,
+  "occupation_profiles_written": 923,
+  "processed_file": "raw_skills.csv",
+  "processing_notes": [
+    "Grouped by O*NET-SOC code and title.",
+    "Exact duplicate source records and rows missing code/title/workplace example are omitted.",
+    "Canonical aliases are project-derived labels; original workplace examples are retained separately.",
+    "O*NET Hot Technology and In Demand examples are preserved as separate fields when supplied."
+  ]
+}
